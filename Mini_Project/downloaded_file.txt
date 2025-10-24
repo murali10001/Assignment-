@@ -1,0 +1,4 @@
+Hello, this is a sample file for testing secure cloud storage.
+All the contents of this file will be encrypted before upload.
+This demonstrates basic AES encryption and decryption in Java.
+Have a great day!
